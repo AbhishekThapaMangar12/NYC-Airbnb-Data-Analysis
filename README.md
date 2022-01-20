@@ -5,5 +5,4 @@
 - Performed EDA on the dataset using Google Colab (Pandas, Numpy, Seaborn). 
   { Refer  NYCAirBNB_DataAnalysis.ipynb, NYCAirBNB_DataAnalysis.pdf}
 
-- Also, built an interactive Power BI report for real-time analysis.
-  { Refer  NYCAirBNB_PowerBI_Report.pdf, NYCAirBNB_EDA.pbix }.
+- Also, built a Power BI report for more interactive visualizations { Refer  NYCAirBNB_PowerBI_Report.pdf, NYCAirBNB_EDA.pbix }.
