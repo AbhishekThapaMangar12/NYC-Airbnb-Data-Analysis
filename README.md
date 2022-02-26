@@ -1,4 +1,4 @@
-# NYC-Airbnb-BookingDemand-Analysis
+# NYC-Airbnb-Booking-Demands-Analysis
 
 - Airbnb Inc. is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities.
 
